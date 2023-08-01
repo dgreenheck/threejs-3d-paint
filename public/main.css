@@ -29,5 +29,5 @@ body {
 }
 
 .color-button.selected {
-  border: 2px solid rgb(225, 225, 225);
+  outline: 3px solid white;
 }

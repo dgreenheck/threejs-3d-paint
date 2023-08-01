@@ -74,8 +74,9 @@ function onMouseDown(ev) {
 }
 
 // Color selection
-let activeColor = 'white';
+let activeColor = 'gray';
 const colors = {
+  gray: 0xaaaaaa,
   white: 0xffffff,
   red: 0xff0000,
   orange: 0xff8000,
