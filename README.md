@@ -1,2 +1,2 @@
 # threejs-3d-paint
-Three.js raycasting demo
+Live demo: https://dgreenheck.github.io/threejs-3d-paint/
